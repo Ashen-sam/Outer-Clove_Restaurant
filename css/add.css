@@ -1,0 +1,42 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+}
+
+
+form{
+
+    display: flex;
+    flex-direction: column;
+    margin-top: 10rem;
+    
+
+}
+
+input{
+
+    padding: 0.7rem;
+    margin-bottom: 1rem;
+}
+h1{
+
+    margin-bottom: 1rem;
+}
+
+.btn{
+
+    background-color: rgb(82, 82, 255);
+    color: whitesmoke;
+    border: none;
+    padding: 1rem;
+    font-size: 1.3rem;
+}
+
